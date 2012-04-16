@@ -27,11 +27,12 @@ Clone this repo or download file
 [More detail](https://github.com/joyent/node/wiki)
 
 new method:
-    =-gbk=
-    =--fenc gbk= or other
-    =--fancy yourname=
-    =--author yourname=
-    =--source=
+
+    -gbk
+    --fenc gbk or other
+    --fancy yourname
+    --author yourname
+    --source=
  
 
 ### TODO

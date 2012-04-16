@@ -24,8 +24,6 @@ Clone this repo or download file
     git clone git://github.com/bnoordhuis/node-iconv.git iconv
 
 ### Usage:
-[More detail](https://github.com/joyent/node/wiki)
-
 new method:
 
     -gbk
@@ -33,6 +31,8 @@ new method:
     --fancy yourname
     --author yourname
     --source=
+
+[More detail](https://github.com/mishoo/UglifyJS)
  
 
 ### TODO

@@ -1,5 +1,5 @@
 ### UglifyJS – a JavaScript parser/compressor/beautifier
-Based on UglifyJs (https://github.com/mishoo/UglifyJS). This version support gbk encoding and some...;
+Uglifyjs-cmd based on UglifyJs (https://github.com/mishoo/UglifyJS). This version support gbk encoding and some...
 
 ### Install(NPM):
 Unix/Macintosh :

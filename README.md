@@ -1,4 +1,4 @@
-### To build:
+### UglifyJS – a JavaScript parser/compressor/beautifier 
 
 ### Install(NPM):
 Unix/Macintosh :
@@ -22,8 +22,17 @@ Clone this repo or download file
     git clone git://github.com/Aben/uglifyjs-cmd.git
     git clone git://github.com/mishoo/UglifyJS.git uglifyjs
     git clone git://github.com/bnoordhuis/node-iconv.git iconv
+
+### Usage:
+[More detail](https://github.com/joyent/node/wiki)
+
+new method:
+    =-gbk=
+    =--fenc gbk= or other
+    =--fancy yourname=
+    =--author yourname=
+    =--source=
  
-    
 
 ### TODO
 

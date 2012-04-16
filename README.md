@@ -12,7 +12,7 @@ Clone this repo or download file
 
     ln -s ~/node_modules/uglify-js/uglify-js.js ~/path/to/uglify-js.js
     ln -s ~/node_modules/iconv/iconv.node ~/path/to/iconv.node
-    ln -s ~/path/to/uglifyjs-cmd/uglifyjs /usr/local/bin/uglifyjs
+    ln -sf ~/path/to/uglifyjs-cmd/uglifyjs /usr/local/bin/uglifyjs
 
 ### Install latest code from GitHub(if you wan't use symlink, try this)
 

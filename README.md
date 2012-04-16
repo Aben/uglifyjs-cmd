@@ -20,7 +20,7 @@ new method:
     --fenc gbk or other
     --fancy yourname
     --author yourname
-    --source=
+    --source
 
 [More detail](https://github.com/mishoo/UglifyJS)
  

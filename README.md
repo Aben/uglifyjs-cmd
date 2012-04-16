@@ -16,7 +16,7 @@ Clone this repo or download file
 
 ### Install latest code from GitHub(if you wan't use symlink, try this)
 
-    ## clone uglifyjs repository
+    ## clone three repository
     mkdir -p /where/you/wanna/put/it
     cd /where/you/wanna/put/it
     git clone git://github.com/Aben/uglifyjs-cmd.git
